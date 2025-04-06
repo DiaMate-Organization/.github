@@ -11,14 +11,14 @@ Our solution combines **machine learning**, and **modern web** to empower indivi
 
 ## 🧑‍💻 Project Repositories
 
-| Name                 | Team               | GitHub Profile                                      |
-|----------------------|--------------------|-----------------------------------------------------|
-| Alfarizi Dwi Prasetyo| Frontend and Backend    | [@Alfarizi](https://github.com/AlfariziDwiPrasetyo)        |
-| Ridho Bintang Aulia  | Frontend and Backend | [@Ridho](https://github.com/jizak1)               |
-| Muhammad Faiz        | Frontend and Backend | [@Faiz](https://github.com/muhammadfaiz19)        |
-| Riandika Fathur      | Machine Learning   | [@Rian](https://github.com/phanorama)               |
-| Damar Syarafi Ramadhan| Machine Learning   | [@Damar](https://github.com/dmareee)               |
-| Leonard Bodhi Kumaro   | Machine Learning     | [@Lenoard](https://github.com/leonardkumaro)  |
+| Name                   | Team                  | GitHub Profile                                     | Repository |
+|------------------------|-----------------------|----------------------------------------------------|------------|
+| Alfarizi Dwi Prasetyo  | Frontend and Backend  | [@Alfarizi](https://github.com/AlfariziDwiPrasetyo)| TBD        |
+| Ridho Bintang Aulia    | Frontend and Backend  | [@Ridho](https://github.com/jizak1)                | TBD        |
+| Muhammad Faiz          | Frontend and Backend  | [@Faiz](https://github.com/muhammadfaiz19)         | TBD        |
+| Riandika Fathur        | Machine Learning      | [@Rian](https://github.com/phanorama)              | TBD        |
+| Damar Syarafi Ramadhan | Machine Learning      | [@Damar](https://github.com/dmareee)               | TBD        |
+| Leonard Bodhi Kumaro   | Machine Learning      | [@Leonard](https://github.com/leonardkumaro)       | TBD        |
 
 ---
 
