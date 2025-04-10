@@ -13,7 +13,7 @@ Our solution combines **machine learning**, and **modern web** to empower indivi
 
 | Name                   | Team                  | GitHub Profile                                     | Repository |
 |------------------------|-----------------------|----------------------------------------------------|------------|
-| Alfarizi Dwi Prasetyo  | Frontend and Backend  | [@Alfarizi](https://github.com/AlfariziDwiPrasetyo)| TBD        |
+| Alfarizi Dwi Prasetyo  | Frontend and Backend  | [@Alfarizi](https://github.com/AlfariziDwiPrasetyo)|[ Backend ](https://github.com/DiaMate-Organization/diamate-be.git)       |
 | Ridho Bintang Aulia    | Frontend and Backend  | [@Ridho](https://github.com/jizak1)                | TBD        |
 | Muhammad Faiz          | Frontend and Backend  | [@Faiz](https://github.com/muhammadfaiz19)         | TBD        |
 | Riandika Fathur        | Machine Learning      | [@Rian](https://github.com/phanorama)              | TBD        |
