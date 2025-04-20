@@ -13,9 +13,9 @@ Our solution combines **machine learning**, and **modern web** to empower indivi
 
 | Name                   | Team                  | GitHub Profile                                     | Repository |
 |------------------------|-----------------------|----------------------------------------------------|------------|
-| Alfarizi Dwi Prasetyo  | Frontend and Backend  | [@Alfarizi](https://github.com/AlfariziDwiPrasetyo)|[ Backend ](https://github.com/DiaMate-Organization/diamate-be.git)       |
-| Ridho Bintang Aulia    | Frontend and Backend  | [@Ridho](https://github.com/jizak1)                | TBD        |
-| Muhammad Faiz          | Frontend and Backend  | [@Faiz](https://github.com/muhammadfaiz19)         | TBD        |
+| Alfarizi Dwi Prasetyo  | Frontend and Backend  | [@Alfarizi](https://github.com/AlfariziDwiPrasetyo)|[ Backend ](https://github.com/DiaMate-Organization/diamate-be.git)          |
+| Ridho Bintang Aulia    | Frontend and Backend  | [@Ridho](https://github.com/jizak1)                |[ Frontend ](https://github.com/DiaMate-Organization/DiaMate-frontend-.git)  |
+| Muhammad Faiz          | Frontend and Backend  | [@Faiz](https://github.com/muhammadfaiz19)         |[ Frontend ](https://github.com/DiaMate-Organization/DiaMate-frontend-.git)  |
 | Riandika Fathur        | Machine Learning      | [@Rian](https://github.com/phanorama)              | TBD        |
 | Damar Syarafi Ramadhan | Machine Learning      | [@Damar](https://github.com/dmareee)               | TBD        |
 | Leonard Bodhi Kumaro   | Machine Learning      | [@Leonard](https://github.com/leonardkumaro)       | TBD        |
@@ -23,4 +23,4 @@ Our solution combines **machine learning**, and **modern web** to empower indivi
 ---
 
 ## 🧩 **Project Highlights**
-(SOON)
+(TBA)
