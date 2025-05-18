@@ -81,3 +81,11 @@ We welcome contributions to enhance the app! Here's how you can help:
 5. Submit a pull request.
 
 ---
+
+## 🙌 Final Words
+
+DiaMate was built with care, collaboration, and a strong mission—to empower people to take control of their health using the power of technology.
+
+Whether you're here to explore, use, or contribute, we're truly grateful for your interest.
+
+Together, let’s make healthcare more accessible—one step at a time. 💙
