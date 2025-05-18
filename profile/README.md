@@ -50,9 +50,9 @@ DiaMate built with combination technology modern and scalable :
 ### 💻 Frontend
 - **Next.js** – React Framework for SSR/SSG
 - **Tailwind CSS** – Utility-first CSS framework
-- **Shadcn/UI** – Komponen UI modern berbasis Tailwind
-- **Jotai** – State management minimalis berbasis atomic state
-- **Vercel** – Deployment frontend dan preview environment
+- **Shadcn/UI** – Modern UI components built with Tailwind
+- **Jotai** – Minimalist state management based on atomic state
+- **Vercel** – Frontend deployment and preview environment
 
 ### 🧠 Machine Learning
 - **Python** – Main Programming Language untuk ML
