@@ -52,6 +52,8 @@ DiaMate built with combination technology modern and scalable :
 - **Tailwind CSS** – Utility-first CSS framework
 - **Shadcn/UI** – Modern UI components built with Tailwind
 - **Jotai** – Minimalist state management based on atomic state
+- **Axios** – HTTP client for API requests
+- **Joi** – Form input validation library
 - **Vercel** – Frontend deployment and preview environment
 
 ### 🧠 Machine Learning
