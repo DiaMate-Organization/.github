@@ -1,11 +1,15 @@
 # 👋 Welcome to DiaMate
 
 <img width="100%" src="https://raw.githubusercontent.com/DiaMate-Organization/.github/main/Cover.png" />
+
 ## 🩺 About DiaMate
 
 Diabetes is a growing health concern in Indonesia, yet early detection and awareness remain limited—especially among the younger population. **DiaMate** was created to bridge this gap by providing an intelligent, user-friendly platform for diabetes detection and education.
 
 Our solution combines **machine learning**, and **modern web** to empower individuals in understanding their health risks. By utilizing cutting-edge technology, DiaMate helps users perform self-assessments and access resources that promote early intervention and healthier lifestyles.
+
+### demo
+https://diamate-fe.vercel.app/
 
 
 ---
