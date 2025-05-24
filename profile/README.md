@@ -42,7 +42,7 @@ https://diamate-fe.vercel.app/
 
 - Built with **Next.js** and **Tailwind CSS** on the frontend
 - Backend with **Hapi** and **Supabase** using PostgreSQL
-- Machine Learning model trained to predict diabetes risk with scikit-learn
+- Machine Learning model trained to predict diabetes risk with Tensorflow
 - Deployed on **Vercel**, and **Google Cloud Platform**
 
 ---
@@ -61,10 +61,10 @@ DiaMate built with combination technology modern and scalable :
 - **Vercel** – Frontend deployment and preview environment
 
 ### 🧠 Machine Learning
-- **Python** – Main Programming Language untuk ML
-- **Scikit-learn** – Library ML for training dan evaluate model
+- **Python** – Main Programming Language for ML
+- **Scikit-learn** – Library ML for training and evaluate model
 - **Pandas & NumPy** – Analysis and manipulate data
-- **Jupyter Notebook** – Visualization dan experiment model
+- **Jupyter Notebook** – Visualization and experiment model
 
 ### 🖥️ Backend
 - **Node.js + Hapi.js** – Backend framework untuk REST API
