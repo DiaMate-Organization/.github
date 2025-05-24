@@ -14,16 +14,16 @@ https://diamate-fe.vercel.app/
 
 ---
 
-## 🧑‍💻 Project Repositories
+## 🧑‍💻 Team Member
 
-| Name                   | Team                  | GitHub Profile                                     | Repository |
-|------------------------|-----------------------|----------------------------------------------------|------------|
-| Alfarizi Dwi Prasetyo  | Frontend and Backend  | [@Alfarizi](https://github.com/AlfariziDwiPrasetyo)|[ Backend ](https://github.com/DiaMate-Organization/diamate-be.git)          |
-| Ridho Bintang Aulia    | Frontend and Backend  | [@Ridho](https://github.com/jizak1)                |[ Frontend ](https://github.com/DiaMate-Organization/DiaMate-frontend-.git)  |
-| Muhammad Faiz          | Frontend and Backend  | [@Faiz](https://github.com/muhammadfaiz19)         |[ Frontend ](https://github.com/DiaMate-Organization/DiaMate-frontend-.git)  |
-| Riandika Fathur        | Machine Learning      | [@Rian](https://github.com/phanorama)              | TBD        |
-| Damar Syarafi Ramadhan | Machine Learning      | [@Damar](https://github.com/dmareee)               | TBD        |
-| Leonard Bodhi Kumaro   | Machine Learning      | [@Leonard](https://github.com/leonardkumaro)       | TBD        |
+| Name                   | Team                  | GitHub Profile                                     |
+|------------------------|-----------------------|----------------------------------------------------|
+| Alfarizi Dwi Prasetyo  | Frontend and Backend  | [@Alfarizi](https://github.com/AlfariziDwiPrasetyo)|
+| Ridho Bintang Aulia    | Frontend and Backend  | [@Ridho](https://github.com/jizak1)                |
+| Muhammad Faiz          | Frontend and Backend  | [@Faiz](https://github.com/muhammadfaiz19)         |
+| Riandika Fathur        | Machine Learning      | [@Rian](https://github.com/phanorama)              | 
+| Damar Syarafi Ramadhan | Machine Learning      | [@Damar](https://github.com/dmareee)               | 
+| Leonard Bodhi Kumaro   | Machine Learning      | [@Leonard](https://github.com/leonardkumaro)       |
 
 ---
 
