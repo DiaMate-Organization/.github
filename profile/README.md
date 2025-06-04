@@ -73,7 +73,7 @@ DiaMate built with combination technology modern and scalable :
 - **Winston** – Logging middleware
 
 ### ☁️ DevOps & Deployment
-- **Google Cloud Platform (GCP)** – Host backend dan ML service
+- **Railway** – Host backend dan ML service
 - **Docker** – Containerization for consistent deployment
 
 ---
